@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: ShockC # the main title
 
-tagline: 一个爱好旅行，运动，打游戏，没长大的boy # it will display as the sub-title
+tagline: 喜欢旅行，自驾，摄影，运动，打游戏 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
