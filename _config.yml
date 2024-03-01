@@ -95,8 +95,7 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
-  giscus: 
-    enable: true
+  giscus: true
     repo: "Shock-c/Shock-c.github.io" # <gh-username>/<repo>
     repo_id: "R_kgDOLZxS0A"
     category: "Announcements"
